@@ -1,0 +1,15 @@
+C:\Workspace\usoAutos\obj\Debug\net6.0\usoAutos.csproj.AssemblyReference.cache
+C:\Workspace\usoAutos\obj\Debug\net6.0\usoAutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\usoAutos\obj\Debug\net6.0\usoAutos.AssemblyInfoInputs.cache
+C:\Workspace\usoAutos\obj\Debug\net6.0\usoAutos.AssemblyInfo.cs
+C:\Workspace\usoAutos\obj\Debug\net6.0\usoAutos.csproj.CoreCompileInputs.cache
+C:\Workspace\usoAutos\bin\Debug\net6.0\usoAutos.exe
+C:\Workspace\usoAutos\bin\Debug\net6.0\usoAutos.deps.json
+C:\Workspace\usoAutos\bin\Debug\net6.0\usoAutos.runtimeconfig.json
+C:\Workspace\usoAutos\bin\Debug\net6.0\usoAutos.dll
+C:\Workspace\usoAutos\bin\Debug\net6.0\ref\usoAutos.dll
+C:\Workspace\usoAutos\bin\Debug\net6.0\usoAutos.pdb
+C:\Workspace\usoAutos\obj\Debug\net6.0\usoAutos.dll
+C:\Workspace\usoAutos\obj\Debug\net6.0\ref\usoAutos.dll
+C:\Workspace\usoAutos\obj\Debug\net6.0\usoAutos.pdb
+C:\Workspace\usoAutos\obj\Debug\net6.0\usoAutos.genruntimeconfig.cache
